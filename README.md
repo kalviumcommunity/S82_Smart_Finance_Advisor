@@ -1,7 +1,7 @@
 
-# 💼 Smart Financial Advisor – Generative AI Project
+# Smart Financial Advisor – Generative AI Project
 
-## 🧠 Overview
+## Overview
 
 **Smart Financial Advisor** is an AI-powered personal finance assistant that helps users manage their money through intelligent budgeting, investment recommendations, savings strategies, and financial literacy guidance. The system interacts with users via natural language and provides tailored advice based on their income, goals, and spending habits.
 
@@ -13,7 +13,7 @@ This project demonstrates the integration of advanced **Generative AI techniques
 
 ---
 
-## 🚀 How the System Works
+##  How the System Works
 
 Users can ask finance-related questions or share their financial data (e.g., income, expenses, savings goals). The AI then:
 
@@ -24,9 +24,9 @@ Users can ask finance-related questions or share their financial data (e.g., inc
 
 ---
 
-## 📌 Core AI Concepts
+##  Core AI Concepts
 
-### 🗣️ 1. Prompting
+###  1. Prompting
 
 Prompting is used to interpret natural language inputs such as:
 
@@ -43,7 +43,7 @@ You are a smart personal finance assistant. When the user provides income, expen
 
 ---
 
-### 📊 2. Structured Output
+###  2. Structured Output
 
 The AI returns structured responses in JSON format for easy rendering in dashboards, mobile apps, or voice assistants.
 
@@ -67,7 +67,7 @@ This allows seamless frontend integration and reliable downstream processing.
 
 ---
 
-### ⚙️ 3. Function Calling
+###  3. Function Calling
 
 We implement **function calling** for computational tasks and external data retrieval.
 
@@ -81,7 +81,7 @@ The LLM is configured to recognize when to call these functions based on user in
 
 ---
 
-### 📚 4. Retrieval-Augmented Generation (RAG)
+###  4. Retrieval-Augmented Generation (RAG)
 
 **RAG** is used to dynamically retrieve domain-specific documents, articles, and guides, and inject relevant content into the LLM's context window for accurate, up-to-date answers.
 
@@ -100,7 +100,7 @@ When the user asks, “What are the best tax deductions for freelancers in 2025?
 
 ---
 
-## ✅ Evaluation Criteria
+##  Evaluation Criteria
 
 | Criteria       | Approach |
 |----------------|----------|
@@ -110,6 +110,6 @@ When the user asks, “What are the best tax deductions for freelancers in 2025?
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 This project showcases a full-stack Generative AI system applied to real-world personal finance. It leverages natural language understanding, programmatic execution, real-time knowledge retrieval, and structured outputs to help users manage their money smarter and more efficiently.
