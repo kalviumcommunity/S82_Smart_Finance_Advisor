@@ -114,4 +114,3 @@ When the user asks, “What are the best tax deductions for freelancers in 2025?
 
 This project showcases a full-stack Generative AI system applied to real-world personal finance. It leverages natural language understanding, programmatic execution, real-time knowledge retrieval, and structured outputs to help users manage their money smarter and more efficiently.
 
-## By John Ebenezer from Squad 82
